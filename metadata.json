@@ -1,0 +1,7 @@
+{
+  "name": "PeikYar - Logistics Manager",
+  "description": "Professional courier management system with interactive maps, location services, and deep linking to navigation apps (Balad, Neshan, Waze).",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
